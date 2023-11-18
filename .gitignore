@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# intellij/vscode
+.idea
+.vs
+
+# Local libraries dir
+libraries/
+
+# Local data dir
+data/
